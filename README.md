@@ -13,6 +13,16 @@ This repository contains the configuration files for the RS Rainmeter skin.
 - It is possible to set the Position property for the desired items to "Stay Topmost"
 - Go to the "Layouts" tab and save the new layout with a desired name
 
+## Displaying CPU Temperature Reading
+
+CPU Temperature can be displayed with the help of the CoreTemp software.  
+[CoreTemp][core-temp] should be running in the background.  
+Documentation on how to use the CoreTemp Plugin in Rainmeter can be found [here][core-temp-plugin].
+
 ## References
 
 - <https://docs.rainmeter.net/manual/skins/>
+- [CoreTemp Download][core-temp]
+
+[core-temp]: https://www.alcpu.com/CoreTemp/
+[core-temp-plugin]: https://docs.rainmeter.net/manual/plugins/coretemp/
